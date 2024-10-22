@@ -6,7 +6,7 @@ To open and run this project, follow the steps below:
 
 ==> Make sure you have [Node.js](https://nodejs.org/) installed on your system. You can verify the installation by running:
 
-```bash
+``bash
 `node -v`
 `npm -v`
 
